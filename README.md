@@ -2,7 +2,7 @@
 I'm looking to collaborate in open source projects<br>I'm currently learning and eager to use Rust
 
 
-## 🌐 Socials:
+## 🌐 Socials: 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/cccsar) 
 
 # 💻 Tech Stack:
